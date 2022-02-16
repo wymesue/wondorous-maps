@@ -1,0 +1,25 @@
+{   
+   "name": "wondrous-maps",   
+   "title": "Wondrous Maps",   
+   "description": "Module for Wondrous Maps on Patreon.",   
+   "author": "Amitasis",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion":"0.5.5",
+   "packs": [
+    {
+      "name": "Wondrous Maps",
+      "label": "Collection of Wondrous Maps",
+      "path": "packs/wondrous-maps.db",
+      "entity": "Scene",
+      "module": "wondrous-maps"
+    },
+    {
+      "name": "Wondrous Maps Journals",
+      "label": "Journal Entry for Wondrous Maps",
+      "path": "packs/wondrous-maps-journal.db",
+      "entity": "JournalEntry",
+      "module": "wondrous-maps"
+    }
+  ]
+ }
