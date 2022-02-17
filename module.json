@@ -7,7 +7,7 @@
    "minimumCoreVersion": "0.5.0",
    "compatibleCoreVersion":"0.5.5",
    "manifest": "https://raw.githubusercontent.com/wymesue/wondorous-maps/main/module.json",
-   "download": "https://github.com/wymesue/wondorous-maps/blob/main/wondrous-maps.zip",
+   "download": "https://github.com/wymesue/wondorous-maps/raw/main/wondrous-maps.zip",
    "packs": [
     {
       "name": "Wondrous Maps",
